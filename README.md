@@ -11,7 +11,7 @@ Preview:
 
 ![image](https://user-images.githubusercontent.com/15225177/225607547-f9133b96-df4f-41b3-b2ab-fd93539512a0.png)
 
-3. Dashboard:Product Page
+3. Dashboard:Product List Page
 
 ![image](https://user-images.githubusercontent.com/15225177/225607757-092a3827-f7dc-4540-b82e-501f49049378.png)
 
