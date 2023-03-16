@@ -21,7 +21,7 @@ Features:
 3. Update Product
 4. Search product
 
-4. Update product page
+4.Update product page
 
 ![image](https://user-images.githubusercontent.com/15225177/225608456-7495426a-34b6-40a0-820d-ddeceec08531.png)
 
